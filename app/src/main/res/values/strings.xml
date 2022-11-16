@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GrubbrPractical</string>
+    <string name="str_user_name">User Name</string>
+    <string name="str_password">Password</string>
+    <string name="str_username">Username</string>
+    <string name="str_submit">Submit</string>
+    <string name="error_password">Please enter Password</string>
+    <string name="error_username">Please enter Username</string>
+</resources>
